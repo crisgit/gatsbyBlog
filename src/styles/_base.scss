@@ -1,0 +1,50 @@
+.container#content {
+    margin-top: 85px;
+  }
+
+  body {
+    background-color: $light-gray;
+    font-family: $site-font;
+  }
+
+  a {
+    color: #0056b3;
+    &:hover {
+      color: #007bff;
+      text-decoration: none;
+    }
+  }
+ 
+  h1 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .navbar {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+    padding-top: 25px;
+    // border-right: 1px solid rgba(0, 0, 0, 0.4);
+    // border-left: 1px solid rgba(0, 0, 0, 0.4);
+    border-bottom: 1px solid $light-gray;
+    line-height: 1;
+  }
+  
+  .navbar-light .navbar-nav .nav-link,
+  .navbar-light .navbar-brand {
+    
+    padding: 14px 16px;
+    text-align: center;
+
+    color: #0056b3;
+    &:hover {
+
+      color: #007bff;
+      background-color: whitesmoke;
+
+    }
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
