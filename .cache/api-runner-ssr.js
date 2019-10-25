@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/home/dev/Downloads/gatsbyBlog/node_modules/gatsby-plugin-google-adsense/gatsby-ssr'),
-      options: {"plugins":[],"publisherId":"ca-pub-4042480024393994"},
+      options: {"plugins":[],"publisherId":"ca-pub-numero do google adsense"},
     },{
       plugin: require('/home/dev/Downloads/gatsbyBlog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/logo.svg"},

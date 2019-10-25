@@ -5,10 +5,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby's Blog WebNow Example
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
@@ -82,6 +82,32 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
+## About Gatsby WebNow Blog
+
+1.  **Clone/Download the code from this repo**
+
+ [Git Clone](https://github.com/crisgit/gatsbyBlog.git), 
+
+> git clone https://github.com/crisgit/gatsbyBlog.git
+
+2. **Install dependencies
+
+> cd gatsbyBlog
+
+> npm install
+
+3. **Launch project**
+
+> gatsby develop
+
+> The blog is now running at http://localhost: 8000
+
+## 💫 Deploy instance of the project example in Netlify
+
+> You can see more details : https://webnowblog.netlify.com/
+
+> [![Deploy documentation](https://www.netlify.com/img/deploy/button.svg)](https://docs.netlify.com/)
+
 ## 🎓 Learning Gatsby
 
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
@@ -89,9 +115,5 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->

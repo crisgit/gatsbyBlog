@@ -26,7 +26,7 @@ const NotFoundPage = () => (
         <h1 className="display-3">Error 404 </h1>
         <p className="lead"> Desculpe, mas essa página não existe mais ou a Url digitada não existe. </p>
         <hr className="my-2" />
-        <p> <strong> Você pode pesquisar no Blog usando a caixa de busca ou retornar à página inicial no botão abaixo. </strong> </p>
+        <p> <strong> Você pode retornar à página inicial no botão abaixo. </strong> </p>
         <br />
         <p className="lead">
           <Link className="btn btn-primary text-uppercase" to={'/'}> Home </Link>
