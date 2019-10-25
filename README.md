@@ -90,7 +90,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 > git clone https://github.com/crisgit/gatsbyBlog.git
 
-2. **Install dependencies
+2. **Install dependencies**
 
 > cd gatsbyBlog
 
@@ -106,7 +106,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 > You can see more details : https://webnowblog.netlify.com/
 
-> [![Deploy documentation](https://www.netlify.com/img/deploy/button.svg)](https://docs.netlify.com/)
+ [![Deploy documentation](https://www.netlify.com/img/deploy/button.svg)](https://docs.netlify.com/)
 
 ## 🎓 Learning Gatsby
 
